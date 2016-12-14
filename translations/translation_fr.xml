@@ -44,15 +44,15 @@
 		<text name="COURSEPLAY_SAVE_FOLDER_NAME_WITH"					 text="%s pour Enregistrer le dossier" />
 		<text name="COURSEPLAY_FILTER_COURSE_WITH"						 text="%s pour Filtrer les trajets" />
 		<text name="COURSEPLAY_COURSES_FILTER_TITLE"					 text="Trajets : %q" />
-		<text name="COURSEPLAY_LOAD_COURSE"								 text="Charger le trajet / la fusionner avec celle chargée" />
+		<text name="COURSEPLAY_LOAD_COURSE"								 text="Charger le trajet/la fusionner avec celle chargée" />
 		<text name="COURSEPLAY_APPEND_COURSE"							 text="Ajouter le trajet à la fin" />
 		<text name="COURSEPLAY_MOVE_TO_FOLDER"							 text="Déplacer dans un dossier" />
-		<text name="COURSEPLAY_DELETE_COURSE"							 text="Supprimer le trajet / le dossier" />
+		<text name="COURSEPLAY_DELETE_COURSE"							 text="Supprimer le trajet/le dossier" />
 		<text name="COURSEPLAY_CREATE_FOLDER"							 text="Créer un nouveau dossier" />
 		<text name="COURSEPLAY_SEARCH_FOR_COURSES_AND_FOLDERS"			 text="Recherche de trajet et de dossier" />
 		<text name="COURSEPLAY_DEACTIVATE_FILTER"						 text="Désactiver les filtres" />
 		<text name="COURSEPLAY_REACHED_OVERLOADING_POINT"				 text="a atteint le point de déchargement." />
-		<text name="COURSEPLAY_SAVE_PIPE_POSITION"					     text="Sauvegarder la position de la buse du transbordeur" /><!-- TODO: TRANSLATION! (save the position of the overloaders pipe) -->
+		<text name="COURSEPLAY_SAVE_PIPE_POSITION"					     text="Sauvegarder la position de la buse" /><!-- TODO: TRANSLATION! (save the position of the overloaders pipe) -->
 		<text name="COURSEPLAY_MOVE_PIPE_TO_POSITION"					 text="Déplier la buse à sa position" /><!-- TODO: TRANSLATION! (move to the position of the overloaders pipe) -->
 		<text name="COURSEPLAY_REACHED_WAITING_POINT"					 text="a atteint le point d'attente" />
 		<text name="COURSEPLAY_REACHED_END_POINT"						 text="a atteint la fin du trajet" />
@@ -131,7 +131,7 @@
 		<text name="COURSEPLAY_WEATHER_WARNING"							 text="est en attente d'une meilleure météo." />
 		<text name="COURSEPLAY_LANE_OFFSET"								 text="Décalage de la voie" />
 		<text name="COURSEPLAY_TOOL_OFFSET_X"							 text="Outil : décalage latéral" />
-		<text name="COURSEPLAY_TOOL_OFFSET_Z"							 text="Outil : décalage av. / arr." />
+		<text name="COURSEPLAY_TOOL_OFFSET_Z"							 text="Outil : décalage av./arr." />
 		<text name="COURSEPLAY_FRONT"									 text="avant" />
 		<text name="COURSEPLAY_BACK"									 text="arrière" />
 		<text name="COURSEPLAY_WORK_WIDTH"								 text="Largeur de travail" />
@@ -236,16 +236,16 @@
 		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_SEEDTYPE"			 text="Type de semence : %s" />
 		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_USAGE"				 text="Utilisation : %s %s (%s)" />
 		<text name="COURSEPLAY_SEEDUSAGECALCULATOR_TRIM" 				 text="···" />
-		<text name="COURSEPLAY_VISUALWAYPOINTS_STARTEND"				 text="Afficher / masquer les points du début et de la fin" />
-		<text name="COURSEPLAY_VISUALWAYPOINTS_ALL"						 text="Afficher / masquer tous les points" />
-		<text name="COURSEPLAY_VISUALWAYPOINTS_CROSSING"				 text="Afficher / masquer les points de croisements" />
+		<text name="COURSEPLAY_VISUALWAYPOINTS_STARTEND"				 text="Afficher/masquer les points du début et de la fin" />
+		<text name="COURSEPLAY_VISUALWAYPOINTS_ALL"						 text="Afficher/masquer tous les points" />
+		<text name="COURSEPLAY_VISUALWAYPOINTS_CROSSING"				 text="Afficher/masquer les points de croisements" />
 
 		<text name="COURSEPLAY_HUD_OPEN"								 text="Afficher l'interface de CoursePlay" />
 		<text name="COURSEPLAY_HUD_CLOSE"								 text="Masquer l'interface de CoursePlay" />
 		<text name="COURSEPLAY_FUNCTIONS"								 text="Fonctionnalités de CoursePlay" />
 		<text name="input_COURSEPLAY_MODIFIER"							 text="Courseplay : modifier" />
 		<text name="input_COURSEPLAY_MENU_ACCEPT_SECONDARY"				 text="Courseplay : Accepter les pop-ups" />
-		<text name="input_COURSEPLAY_HUD"								 text="Courseplay : Afficher / masquer l'interface" />
+		<text name="input_COURSEPLAY_HUD"								 text="Courseplay : Afficher/masquer l'interface" />
 		<text name="input_COURSEPLAY_START_STOP"						 text="Courseplay : Démarrer/arrêter le trajet" />
 		<text name="input_COURSEPLAY_CANCELWAIT"						 text="Courseplay : Arrêter au prochain point ou déclencheur'" />
 		<text name="input_COURSEPLAY_DRIVENOW"							 text="Courseplay : Démarrer maintenant" />
